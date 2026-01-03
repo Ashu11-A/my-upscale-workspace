@@ -1,4 +1,12 @@
-# 🚀 chaiNNer Advanced Upscale Workspace: Human Segmentation & Hybrid (Video/Image)
+<div align="center">
+
+# ChaiNNer Workspace
+
+<img width="5072" height="3761" alt="image" src="https://github.com/user-attachments/assets/4c795237-7183-449f-b049-cbbe28055209" />
+
+</div>
+
+---
 
 This repository contains a custom workspace file (`.chn`) for [chaiNNer](https://github.com/chaiNNer-org/chaiNNer), focused on high-quality upscaling with intelligent segmentation.
 
